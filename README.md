@@ -18,7 +18,7 @@
   </a>
 
   <a target="_blank" href=""> 
-    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+    <img align="center" src="https://img.shields.io/badge/dgomatias-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
   </a>
 
    
