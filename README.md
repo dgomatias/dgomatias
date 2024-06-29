@@ -8,8 +8,17 @@
 </div>
 
 <div align="center" >
+  
   <a target="_blank" href="https://linkedin.com/in/dgomatias/"> 
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+
+  <a target="_blank" href=""> 
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+  </a>
+
+   <a target="_blank" href=""> 
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
 
 </div>
