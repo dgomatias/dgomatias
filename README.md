@@ -8,6 +8,8 @@
 </div>
 
 <div align="center" >
+
+  <h2> Contacts </h2>
   
   <a target="_blank" href="https://linkedin.com/in/dgomatias/"> 
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
