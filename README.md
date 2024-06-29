@@ -14,7 +14,7 @@
   </a>
 
   <a target="_blank" href=""> 
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+    <img align="center" src="https://img.shields.io/badge/dgomatias.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
 
   <a target="_blank" href=""> 
