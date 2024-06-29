@@ -13,9 +13,9 @@
 
 
  
-<div align="center" >
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dgomatias&theme=dracula)](https://github.com/dgomatias/github-readme-activity-graph)
+<div align="center">
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=dgomatias&theme=dracula">
 
 </div>
 
