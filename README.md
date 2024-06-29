@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" >
-  <a href="https://linkedin.com/in/dgomatias/"> 
+  <a target="_blank" href="https://linkedin.com/in/dgomatias/"> 
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
 
